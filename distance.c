@@ -1,3 +1,5 @@
+//created by aryan koul
+//date 18/03/2021
 #include<stdio.h>  
 #include<math.h>  
   

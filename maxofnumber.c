@@ -1,4 +1,4 @@
-// Author : Kavya Dhar
+// Author : ARYAN KOUL
 // Purpose:a function which takes 3 numbers as input and prints maximum of those 3 numbers. *
 // Creation Date: 22-03-21
 #include <stdio.h>

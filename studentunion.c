@@ -1,4 +1,4 @@
-/A C Program to store information of a student using union.          
+//A C Program to store information of a student using union.          
 #include <stdio.h>
 #include <string.h> //pre processor directive to include string function
  

@@ -17,7 +17,7 @@ strrchr - string scanning operation */
 #include <string.h>
 int main()
 {
-     char str1[20] = "Kavya_Dhar";
+     char str1[20] = "aryan_koul";
      printf("Length of string str1 when maxlen is 30: %d", strnlen(str1, 30));
      printf("Length of string str1 when maxlen is 10: %d", strnlen(str1, 10));
      return 0;
@@ -27,8 +27,8 @@ int main()
 #include <string.h>
 int main()
 {
-     char s1[20] = "Kavya";
-     char s2[20] = "Kavya Dhar ";
+     char s1[20] = "aryan";
+     char s2[20] = "aryan ";
      if (strcmp(s1, s2) ==0)
      {
         printf("string 1 and string 2 are equal");
@@ -75,7 +75,7 @@ int main()
 #include <string.h>
 int main()
 {
-     char inputstr[70] = "String Function in C at Kavya Dhar ";
-     printf ("Output string is: %s", strstr(inputstr, 'Kavy'));
+     char inputstr[70] = "String Function in C at aryan koul ";
+     printf ("Output string is: %s", strstr(inputstr, 'aryan'));
      return 0;
 }

@@ -12,7 +12,7 @@ int main() //Main Function body starting
    FILE *fptr; 
 
    //Creating a new file named "newprogram.txt" and opening it for writing as per the mode 'w'.
-   fptr = fopen("D:\\C_Programs\\BHANUVERMA_163_C_Programs_Repository\\program.txt","w");
+   fptr = fopen("D:\\C_Programs\\ARYANKOUL_140_C_Programs_Repository\\program.txt","w");
 
    //Checking whether the file is empty? if yes, it will return Error! and exits the file
    {
